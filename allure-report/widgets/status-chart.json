@@ -1,0 +1,1 @@
+[{"uid":"5802c1667daf94ce","name":"Log To application","time":{"start":1694165306326,"stop":1694165318062,"duration":11736},"status":"passed","severity":"normal"},{"uid":"8e87d6a15c31bd1c","name":"Log To application Error Check","time":{"start":1694165325586,"stop":1694165341253,"duration":15667},"status":"failed","severity":"normal"}]
